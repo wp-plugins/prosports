@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-ProSports is an advanced all-in-one sports plugin that helps sports clubs to set up and manage a sports league or club website quickly and easy.
+ProSports is an advanced all-in-one sports plugin that helps sports clubs to set up and manage a league or club. Transform your site today!
 
 == Description ==
 
